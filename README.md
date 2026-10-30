@@ -691,5 +691,5 @@ jupyter notebook training/notebooks/Chapter_2_Analysis_using_DL_Models/Chapter_2
   <br/>
   <img src="frontend/public/logo.svg" alt="Stock Market Analysis" width="48" />
   <br/>
-  <h2>Made with  ❤️  by <strong>KANIKA SHARMA</strong></h2>
+  <h2>Made with  ❤️  by <strong>AKSHAT RAUTHAN</strong></h2>
 </div>
